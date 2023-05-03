@@ -1,0 +1,144 @@
+
+LitterBox
+
+Semantic Video Site
+
+CIS 4300 – A2
+
+Rajbir Deol - 0918139
+11-6-2020
+
+ 
+Table of Contents
+Abstract	2
+Storyboards	2
+Story 1: Navigation	2
+Story 2: Labelling	4
+Story 3: Searching	6
+Story 4: Watching Videos / Label Interaction	8
+Reporting	9
+Potential Users	9
+Hierarchical Task Analysis	9
+Finding a Video	9
+Searching for a Video – Cute Kitty Roaring Video	10
+Labeling a Video	10
+
+ 
+Abstract
+The semantic video cite designed is called LitterBox and will only have videos of cats. 
+Storyboards
+Story 1: Navigation
+User first navigates to Litterbox, and lands on homepage. This is how the user would navigate through the nav bar options and clicking to watch a video.
+1.	Start on Homepage
+ 
+2.	Click on Video
+ 
+3.	Click on Channel
+ 
+4.	Click on any other navigation buttons, ex. Upload
+ 
+5.	Clicks on video
+ 
+
+Story 2: Labelling
+User is watching a video, and wants to add a label
+1.	Start on video page and click add button on Labels panel.
+ 
+2.	User sets up their Label
+ 
+3.	User hits SAVE button in Label Tools Panel, gets pop-up 
+ 
+4.	Depending on what user hits
+a.	User hits edit, is returned to label editing screen
+ 
+b.	User hits ok, is returned to the video
+ 
+
+
+Story 3: Searching
+
+User wants to search for a specific video
+1.	User starts by typing into search bar
+ 
+2.	User hits enter, or the magnifying glass, will get search results
+ 
+3.	User hits filter
+ 
+4.	Hitting Done, will collapse filter options and show just the search results
+ 
+5.	If user hits Advanced Search
+•	1st Dropdown contains Title, Description and Label as options
+•	2nd Dropdown contains search operators, such as contains, does not contain, equals, etc.
+ 
+6.	Hitting search will collapse Advanced Search, and show the search results of advanced search
+Story 4: Watching Videos / Label Interaction
+How a user will watch a video and add interact with labels
+1.	User is on a video page
+ 
+2.	User expands video to be entire page, and hovers over dot in video length tracker
+ 
+
+
+
+
+
+
+
+Reporting
+Potential Users
+Channel Owners
+Channel Owners will be the group of users who have created channels and are uploading videos of cats. This group of users are likely close to cats, so they may be cat owners, work with cat, attract stray cats, etc. Or they maybe cat video farmers, who are uploading cat videos from other websites (LitterBox’s competitors). These users will spend the most time interacting with the upload feature. 
+Casual Viewers
+The casual viewers have stumbled upon a link of a cat video and directed to LitterBox. They will mainly interact with that video, and suggested videos. Are not likely to constantly visit the site to view cat videos, so will not be creating an account.
+Dedicated Viewers
+Dedicated viewers will have created an account and are constantly on the site to view cat videos. These users will be subscribed to various channels. They are likely to use the search functionality and get notification when their subscribed to channels upload a new video. Also, the dedicated users will be adding labels to videos. The dedicated viewers are most likely to stumble upon an error with the system. 
+Developers maintaining LitterBox
+This group of users have developed LitterBox and are not maintaining it. The developers will explore every cervix of LitterBox and understand it functionality the best. Will also by most familiar with what types of videos get uploaded. Also, likely to add labels to videos. 
+Advertisement Companies
+Advertisement companies fall in between casual viewers and dedicated viewers, as they will visit Litterbox to get an understanding of the application to see if its worth hosting ads on the site. They will be using the application the most critically. 
+Competitors
+Other video streaming services, such as YouTube, Twitch, TikTok, etc. will visit the site to do competitor analysis. 
+Hierarchical Task Analysis
+Finding a Video
+1.	User Lands on LitterBox Homepage
+1.1.	Scrolls on homepage and selects a video
+1.2.	User clicks on Videos on left hand nav bar
+1.2.1.	Scrolls around and selects a video
+1.3.	User clicks on Channels on left hand nav bar
+1.3.1.	Scrolls around and selects a channel
+1.3.2.	On channel, clicks on uploads
+1.3.3.	Scrolls through uploads and selects a video
+2.	User is watching video
+Plan 0: If video not found on homepage do 1.2 – 1.2.1
+Plan 2: If video still not found do 1.3 – 1.3.2 
+
+Searching for a Video – Cute Kitty Roaring Video
+1.	User lands on LitterBox homepage
+2.	User uses search bar in top nav bar
+2.1.	Searches for cute cat video
+2.2.	Uses filter to sort by popularity
+3.	User doesn’t find video, so uses advanced search
+3.1.	Adds several criteria to search for cute kitty roaring
+3.2.	Then uses filter to search by title
+4.	User finds video
+Plan 0: User finds video only does until 2.2
+Plan 2: User still doesn’t find video, redoes step 2 or 3
+
+Labeling a Video
+1.	User is watching video
+2.	Clicks on Add Label button on the label panel
+2.1.	Hits Exit if here by mistake
+3.	Goes to point in video, where label is being added
+4.	Selects area to label
+4.1.	Selects using lasso
+4.2.	Selects using square
+4.3.	Selects using circle
+4.4.	Selects using triangle
+5.	Writes the label
+6.	Hits Save
+7.	On pop-up alert, hits ok or edit
+8.	On ok user resumes watching video
+Plan 0: User hits edit: redoes steps 3-7 until user hits ok
+Plan 2: User doesn’t finish labelling, hits exit. Will stop at step 2.1
+
+
