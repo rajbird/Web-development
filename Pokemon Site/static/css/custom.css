@@ -1,0 +1,190 @@
+body {
+    background-color: #d29cdb;
+}
+.btn-info {
+  letter-spacing:1px;
+}
+
+.btn-danger {
+  letter-spacing:1px;
+}
+
+
+.results {
+  margin-top: 20px;
+  display: none;
+}
+
+.pokemon-name{
+  letter-spacing:2px;
+  margin-top: 15px;
+}
+
+
+h1 {
+  margin-top:40px;
+}
+.card{
+  background: transparent;
+  height: 420px;
+  width: 268px;
+}
+
+.card-body{
+  background-color: whitesmoke;
+  color: black;
+  text-shadow: none;
+  padding: 0.6rem;
+}
+
+h5.card-title {
+  margin-top: 0px;
+  margin-bottom: 7px;
+  letter-spacing:1px;
+}
+
+.table{
+  margin-bottom: 0px;
+  border-collapse: collapse;
+  border: 1px solid #d29cdb;
+}
+
+.table-bordered td{
+  width:50%;
+}
+
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #d29cdb;
+}
+
+
+.fade.show{
+  outline: none;
+  box-shadow: none;
+  border: none;
+  color: black;
+  text-shadow: none;
+  background: hsl(299deg 96% 5% / 69%);
+}
+
+.modal-content{
+  opacity: 1;
+}
+
+h5.modal-title{
+  margin: 3px;
+  margin-top: 7px;
+  letter-spacing:1px;
+}
+
+.modal-header .close{
+  padding: 0px;
+  padding-top: 3px;
+  color: black;
+}
+
+.x-mark{
+  margin: 8px;
+  padding-right: 5px;
+}
+
+.modal{
+  width: 100%;
+  margin:0px;
+  left:0%;
+
+}
+
+.modal-body {
+  overflow: hidden;
+  max-height: 510px;
+}
+
+.modal-header {
+  background-color: #d29cdb;
+}
+
+.modal-dialog.modal-dialog-centered{
+  max-width: 800px;
+  margin: auto;
+  background-color: transparent;
+}
+
+.img-container{
+  max-width: 200px;
+  display:inline-block;
+  vertical-align:top;
+}
+
+.stats{
+  display:inline-block;
+  width: 500px;
+  padding-left: 15px;
+}
+
+.pokemonID{
+  color: grey;
+  text-align: left;
+}
+
+.base {
+  border: none;
+  border-spacing: 0px;
+}
+
+.base th{
+  border: none;
+  padding: 0px;
+}
+
+.base td{
+  border: none;
+  padding: 0px;
+  height: 22px;
+}
+
+.stat-name{
+  width: 60px;
+}
+
+.progress{
+  margin: 3px;
+}
+
+.anti-container{
+  display:inline-block;
+  padding-left: 15px;
+  width: 500px;
+}
+
+.suga-container{
+  max-width: 200px;
+  display:inline-block;
+  vertical-align:top;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 0px 20px 0px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 0px 20px 5px;
+    text-align: left;
+}
+
+.float-child span{
+  font-size: 14px;
+  letter-spacing: 0.6px;
+  font-weight: lighter;
+  line-height: 25px;
+  text-shadow: none;
+  padding: 3px 12px;
+  width: 80px;
+  text-align: center;
+  margin-right: 5px;
+  margin-bottom: 8px;
+}
