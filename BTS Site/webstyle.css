@@ -1,0 +1,347 @@
+body {
+    background: #e3abce;
+    background: linear-gradient(to bottom left, #a2c8ec,#ceb6d9,#e3abce,#f9b0c3,#fbcabb);
+    background-attachment:fixed;
+    height:100%;
+    font-size: 1.1em;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.top-image {
+  height: 50%;
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f1f1f1;
+}
+
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+.topnav {
+  overflow: hidden;
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  background-color: inherit;
+  margin-bottom: 7px;
+}
+
+.topnav a {
+  cursor:pointer;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: white;
+  color: black;
+}
+
+.topnav-right {
+  float: right;
+}
+
+#footer {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 2.5rem;            /* Footer height */
+  background-color: white;
+  color: black;
+  margin-top: 7px;
+  padding: 12.5px;
+}
+
+#footer p{
+  font-size: 13px;
+  padding: 0px;
+  margin: 0px;
+  float: right;
+}
+#footer p a{
+  text-decoration: none;
+}
+
+.fa {
+  padding-right: 15px;
+  text-align: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  float: left;
+  background: white;
+  color: black;
+}
+
+.fa-twitter {
+  float: left;
+  background: white;
+  color: black;
+}
+
+.fa-youtube {
+  float: left;
+  background: white;
+  color: black;
+}
+
+.fa-instagram {
+  float: left;
+  background: white;
+  color: black;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+/* Page content */
+.content {
+  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+}
+
+.members-content{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.members-bts {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 15px;
+    font-size: 17px;
+    background-color: white;
+}
+
+.members-container {
+    width: 100%;
+    display: block;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 330px;
+    background-color: white;
+    margin-top: 7px;
+}
+
+.members-container p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: right;
+  font-size: 16px;
+  margin-top: 30px;
+  line-height: 1.5;
+}
+
+.members-container span {
+  font-weight: bold;
+  background-color:#fbcabb;
+  color: black;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.member-img {
+    height:300px;
+    overflow:hidden;
+    display:inline-block;
+    margin:2px;
+    padding-right:10px;
+    float:left;
+}
+
+table, td, th {
+  border: 5px solid #ddd;
+  text-align: left;
+  border-color: white;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.column{
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 2px;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.TDtext {
+  color: #404040;
+  line-height: 1.5;
+}
+
+.cover {
+  width: 230px;
+}
+
+td span {
+
+  color: black;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.music-content{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: inherit;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16.5px;
+}
+
+.album-img {
+    height:200px;
+    max-width: 200px;
+    overflow:hidden;
+    display:inline-block;
+    margin:2px;
+    padding:0px;
+    align-content: center;
+}
+
+
+.quoteBox {
+    width: 75%;
+    text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
+.quoteBox p {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.quoteBox h1{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: white;
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-style: italic;
+}
+
+.quoteBox ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+.quoteBox ul li{
+    padding-bottom: 6px;
+}
+
+.quoteBox ul li a:hover{
+    color: white;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.button {
+  width: 150px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 7px;
+  cursor: pointer;
+  background-color: #e7e7e7; color: black;
+  border-radius:4px;
+}
+
+.button a {
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+  color: black;
+}
+
+.button:hover{
+    background-color: white;
+}
+
+.soup {
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.luv {
+    color: black;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
