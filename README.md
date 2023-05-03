@@ -1,11 +1,11 @@
 # Web-development
 
 ## Table of contents
-* [BTS Site](#general-info)
-* [Denim Site](#technologies)
-* [Inception Wesbite](#setup)
-* [Litterbox](#setup)
-* [Pokemon Site](#setup)
+* [BTS Site](#bts-site)
+* [Denim Site](#denim-site)
+* [Inception Wesbite](#inception-site)
+* [Litterbox Mockup](#litterbox-mockup)
+* [Pokemon Site](#pokemon-site)
 
 ## Denim Site
 This project is simple one page website. Was my first try at creating a website from scratch.
@@ -19,7 +19,7 @@ Kept to only using HTML and CSS, and expaned my knowledge
 This project is an complex website designed using bootstrap, was my first try at creating a website with the use of bootstap.
 Required more planning and design considerations
 
-## Litterbox
+## Litterbox Mockup
 This is a mockup project. Where I studied website design and how to create mockups via figma.
 
 ## Pokemon Site
